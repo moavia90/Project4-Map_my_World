@@ -23,13 +23,13 @@ This project is part of Udacity Robotics Software Engineer Nanodegree.
     <th><p>
            <img src="output/graph.png"
             alt="occupancy grid" width="250" height="250"></a>
-           <br>2D occupancy grid
+           <br>2D graph
       </p>
     </th>
     <th><p>
            <img src="output/rviz_visualization.png"
             alt="features" width="500" height="250"></a>
-           <br>Rviz Visualization
+           <br>Occupancy Grid Map in Rviz
       </p>
     </th>
   </tr>
@@ -47,7 +47,7 @@ The project consists of the following parts:
 
 ## Build and Launch
 
-1. Clone project and initialize a catkin workspace
+1. Clone project 
 ```
 $ mkdir -p catkin_ws/src && cd catkin_ws/src/
 $ git clone https://github.com/moavia90/Project4-Map_my_World.git
