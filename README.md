@@ -45,6 +45,23 @@ The project consists of the following parts:
 2. CMake & g++/gcc
 3. Install `rtabmap-ros` package `$ sudo apt-get install ros-${ROS_DISTRO}-rtabmap-ros`
 
+## Large File Download Notice
+
+**Git LFS Bandwidth Exceeded**  
+The file cannot be downloaded directly from GitHub because the repository has exceeded its **Git LFS bandwidth quota**.  
+
+🔗 **Download the file from Google Drive instead:**  
+[Click here to download](https://drive.google.com/file/d/1EWfnL4BhocGPsoakQxAMQ-XmUIrmxTEO/view?usp=sharing)
+
+### Download via Command Line (`gdown`)
+For easier downloading, use the `gdown` tool:
+
+1. Install `gdown` (if not already installed):
+  ```
+  $ pip install gdown
+  $ gdown "https://drive.google.com/uc?id=1EWfnL4BhocGPsoakQxAMQ-XmUIrmxTEO"
+  ```
+
 ## Build and Launch
 
 1. Clone project 
